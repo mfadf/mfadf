@@ -1,6 +1,5 @@
 ![mfadf's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfadf&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 
-[![mfadf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mfadf&layout=compact)](https://github.com/mfadf/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfadf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
